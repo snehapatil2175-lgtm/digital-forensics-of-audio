@@ -1,0 +1,6 @@
+
+streamlit
+numpy
+soundfile
+matplotlib
+reportlab
